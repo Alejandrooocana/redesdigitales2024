@@ -4,8 +4,53 @@
     text-align: center;
     background-color: rgb(83, 255, 3);
 }
-.texto{
+.texto1{
     font-family: 'Times New Roman', Times, serif;
     font-size: 15pt;
+    text-align: justify;
+}
+.texto2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12pt;
+    text-align: justify;
+}
+.texto3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16pt;
+    text-align: justify;
+}
+.texto4{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 11pt;
+    text-align: justify;
+}
+.texto5{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 19pt;
+    text-align: justify;
+}
+.texto6{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10pt;
+    text-align: justify;
+}
+.texto7{
+    font-family:cursive;
+    font-size: 14pt;
+    text-align: justify;
+}
+.texto8{
+    font-family:monospace;
+    font-size: 18pt;
+    text-align: justify;
+}
+.texto9{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 13pt;
+    text-align: justify;
+}
+.texto10{
+    font-family:inherit;
+    font-size: 10pt;
     text-align: justify;
 }
